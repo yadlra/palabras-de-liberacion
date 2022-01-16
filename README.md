@@ -4,4 +4,4 @@
 ### indigenous technoscience 
 ### rural dreams
 
-![palabras de liberacion](canvas.png)
+![palabras de liberacion](liberacion.gif)
